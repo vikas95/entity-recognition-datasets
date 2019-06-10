@@ -6,6 +6,10 @@ This repository contains datasets from several domains
 annotated with a variety of entity types, useful for entity recognition and
 named entity recognition (NER) tasks.
 
+Supercool repository which has collection of multiple NER datasets. Next, we include distantly supervised NER datasets for various tasks. 
+
+We also summarize various neural NER models and advancements in NER domain. Lets keep this awesome resource updated. 
+
 Datasets
 ========
 
