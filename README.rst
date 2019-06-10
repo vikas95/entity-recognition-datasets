@@ -1,5 +1,5 @@
 ===============================
-Datasets for Entity Recognition
+Datasets for Entity Recognition and Various Neural Architectures for NER
 ===============================
 
 This repository contains datasets from several domains
