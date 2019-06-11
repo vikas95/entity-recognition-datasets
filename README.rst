@@ -10,7 +10,7 @@ This supercool repository which has collection of multiple NER datasets. Next, w
 
 We also summarize various neural NER models and advancements in NER domain. Lets keep this awesome resource updated. 
 
-## The conference paper "A Survey on Recent Advances in Named Entity Recognition from Deep Learning models" (http://www.aclweb.org/anthology/C18-1182)  published at COLING 2018 (Santa Fe, NM) provides a good overview and explanations of all these resources.
+The conference paper [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models] (http://www.aclweb.org/anthology/C18-1182)  published at COLING 2018 (Santa Fe, NM) provides a good overview and explanations of all these resources.
  
 
 Datasets
